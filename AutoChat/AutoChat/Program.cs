@@ -106,47 +106,48 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "gj", "gj", "gj", "gj", "good job", "wp", "nice", "goodjob", "gjwp", "nice one", "sweet", "awesome"
+                "gj", "boa manin", "mandou bem", "do caraio", "ae porra", "wp", "nice", "Uhuul", "doidera", "boa", "aeee porra", "vlw"
+                "mto nice", "aí sim brow", "é noiz q ta"
             };
 
             Smileys = new List<string>
             {
-                "", "", "", "", "", ":)", ":P"
+                "", "", "", ":D", ":|", ":)", ":P"
             };
 
             Greetings = new List<string>
             {
-                "gl", "hf", "have fun guys", "gl hf", "glhf", "have fun all"
+                "e ae seus doido", "partiu", "bora mata bot caraio", "Birl", "Vamo ae", ">.>"
             };
 
             SignOff = new List<string>
             {
-                "gg", "ggwp", "gg wp"
+                "gg", "gg seus loco", "gg seus doido", "gg porra", "gg izi"
             };
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys", "sorry", "woops", "soz", "my bad"
+                "cu", "malz ae pessoas", "malz", "Vish, mal ae x.x", "tenso :/", "foi mal x.x"
             };
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "", "", "", "", ""
             };
 
             Clutch = new List<string>
             {
-                "hahaha", "NICE", "GJ", "WELL DONE", "HAHA", "epic", "REKT", "WOW", "GG"
+                "hahaha boa", "nice doidão", "boa", "ae", "UeEHuehueheu", "mito o.o", "Wow, do caraiu"
             };
 
             Motivate = new List<string>
             {
-                "push towers", "towers" , "clear lanes", "push", "need objectives", "objectives" ,"lanes", "push", "drag?"
+                " da push ae", "vai torre" , "empurra saporra", "leva esse caraio", "foca objetivo manos" ,"da push", "ae time"
             };
 
             Honor = new List<string>
             {
-                "wp" ,"wp" , "wp sir", "damn wp", "wp mate", "wp dude", "wp man"
+                "wp" ,"boa" , "wp mano", "Uhuul boa manin", "issae brow", "wp doidão", "wp man, mandou mto"
             };
         }
         #endregion
